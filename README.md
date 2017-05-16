@@ -1,4 +1,4 @@
-## LoopViewPagerLayout无限轮播
+## LoopViewPagerLayout无限轮播(本项目拷贝自https://github.com/why168/LoopViewPagerLayout，因在项目中做了少许修改，就备份一份在这里)
 
 [![](https://jitpack.io/v/why168/LoopViewPagerLayout.svg)](https://jitpack.io/#why168/LoopViewPagerLayout)
 
